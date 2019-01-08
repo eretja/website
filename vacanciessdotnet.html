@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Data Architecture and system integration with Salesforce CRM</h1>
+<div class="box">
+<div class="titles">
+<p>Initial situation:
+</div>
+<div class="text">
+The Client, a big industrial manufacturer of car components, with manufacturing facilities located in five different countries. Each location runs the production with different ERP system, that are not connected to each-other. The engineering team needed an easy way to access the data from each facility to estimate the price for new products and define the facility, which will lead the production of new products. The information on the product cost and communication with customer should be stored in the customer’s Salesforce Cloud application. Customer also set a rough deadline: to months for prototyping and five months overall. The new system should also be flexible enough to be configured by the local engineering team without further IT support.
+</div>
+
+<div class="titles">
+Solution:
+</div>
+
+<div class="text">
+After completing the project discovery stage, GDL and Client agreed on following project terms: due to the strict deadline and other customer requirements, GDL decided to utilize the existing customer’s technology, that his team is familiar to work with. Based on the microservices concept, we connected the existing customer’s pricing templates with the Microsoft SQL Server. The core data structure, common to all five ERP systems, was replicated on the Server. The second layer of data, that are unique for each facility, was built around the MS Server using NoSql technology. Finally, the server was connected to the Salesforce Cloud.
+</div>
+
+<div class="titles">
+Result:
+</div>
+
+<div class="text">
+After completing the project, Client was able to access all his production and sales data in Salesforce Cloud. The quotation speed for new products has increased from 5 days to 2 hours. The Engineering and Sales teams are now able to access the necessary contract data in one place instead of requesting them from each local system. The team work efficiency has rapidly increased, which brought 15% more contracts compare to last year. GDL and Client are currently in leading the conversations over the next project.</p>
+</div>
+</div>
+</body>
+</html>

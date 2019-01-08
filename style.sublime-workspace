@@ -1,0 +1,430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"to",
+				"top\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"input",
+				"input_height"
+			],
+			[
+				"To",
+				"Todo"
+			],
+			[
+				"hig",
+				"height"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"c",
+				"clickedColor"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"text-",
+				"text-shadow"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"le",
+				"border-left-color"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"birtha",
+				"Birthday"
+			],
+			[
+				"mi",
+				"minlength\tAttr"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"male",
+				"Male"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: Groovy"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"var",
+			"jhhkj "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/khrystynakoshulynska/mytest/src/App.vue",
+		"/Users/khrystynakoshulynska/mytest/public/index.html",
+		"/Users/khrystynakoshulynska/mytest/src/main.js",
+		"/Users/khrystynakoshulynska/mytest/README.md",
+		"/Users/khrystynakoshulynska/cli_testing/test2/src/App.vue",
+		"/Users/khrystynakoshulynska/cli_testing/test/src/App.vue",
+		"/Users/khrystynakoshulynska/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/khrystynakoshulynska/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/khrystynakoshulynska/Desktop/calculator_react/my-app/src/Calculator.js",
+		"/Users/khrystynakoshulynska/Desktop/todo_list/my-app/src/Todolist.js",
+		"/Users/khrystynakoshulynska/Desktop/mybudget/my-app/src/index.js",
+		"/Users/khrystynakoshulynska/Desktop/slider_react/slider/src/index.js",
+		"/Users/khrystynakoshulynska/Desktop/calculator_react/my-app/src/index.js",
+		"/Users/khrystynakoshulynska/Desktop/calculator_react/my-app/src/Calculator.css",
+		"/Users/khrystynakoshulynska/Desktop/calculator_react/my-app/src/App.css",
+		"/Users/khrystynakoshulynska/Desktop/ToDo_App/todolist/package.json",
+		"/Users/khrystynakoshulynska/Desktop/mapapp/my-app/src/components/App.js",
+		"/Users/khrystynakoshulynska/Desktop/mybudget/my-app/src/App.js",
+		"/Users/khrystynakoshulynska/Desktop/mybudget/my-app/src/App.css",
+		"/Users/khrystynakoshulynska/Desktop/mapapp/my-app/public/index.html",
+		"/Users/khrystynakoshulynska/Desktop/Nanodegree/reactnd-project-myreads-starter-master/reads app 1.2/src/App.css",
+		"/Users/khrystynakoshulynska/Desktop/myapp/my-app/public/index.html",
+		"/Users/khrystynakoshulynska/Desktop/test/my-app/src/components/App.js",
+		"/Users/khrystynakoshulynska/Desktop/test/my-app/src/components/Place.js",
+		"/Users/khrystynakoshulynska/Desktop/test/my-app/src/components/LocationList.js",
+		"/Users/khrystynakoshulynska/Desktop/tryyyyy/Neighborhood-Map-React-master/Try3/src/components/LocationList.js",
+		"/Users/khrystynakoshulynska/Desktop/test/my-app/README_React .md",
+		"/Users/khrystynakoshulynska/Desktop/test/my-app/README.md",
+		"/Users/khrystynakoshulynska/Desktop/test/my-app/public/manifest.json",
+		"/Users/khrystynakoshulynska/Desktop/test/my-app/public/index.html",
+		"/Users/khrystynakoshulynska/Desktop/tryyyyy/Neighborhood-Map-React-master/Try3/public/index.html",
+		"/Users/khrystynakoshulynska/Desktop/tryyyyy/Neighborhood-Map-React-master/src/components/App.js",
+		"/Users/khrystynakoshulynska/Desktop/tryyyyy/Neighborhood-Map-React-master/Try3/src/components/App.js",
+		"/Users/khrystynakoshulynska/Desktop/tryyyyy/Neighborhood-Map-React-master/README.md",
+		"/Users/khrystynakoshulynska/Desktop/tryyyyy/Neighborhood-Map-React-master/Try3/README.md",
+		"/Users/khrystynakoshulynska/Desktop/tryyyyy/Neighborhood-Map-React-master/package.json",
+		"/Users/khrystynakoshulynska/Desktop/tryyyyy/Neighborhood-Map-React-master 2/package.json",
+		"/Users/khrystynakoshulynska/Desktop/tryyyyy/Neighborhood-Map-React-master/src/components/Place.js",
+		"/Users/khrystynakoshulynska/Desktop/tryyyyy/Neighborhood-Map-React-master/src/components/LocationList.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/src/components/places.json",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/src/components/Place.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/src/components/LocationList.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/src/components/App.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/src/registerServiceWorker.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/src/index.css",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/src/index.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/public/manifest.json",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/public/index.html",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/README.md",
+		"/Users/khrystynakoshulynska/Desktop/Neighbour map /Neighborhood-Map-React-master/package.json",
+		"/Users/khrystynakoshulynska/Desktop/workspace/server.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/package-lock.json",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 2/package.json",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master/README.md",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.1/src/registerServiceWorker.js",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.1/src/index.js",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.1/src/index.css",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.1/src/components/places.json",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.1/src/components/Place.js",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.1/src/components/App.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master/src/components/App.js",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.1/public/index.html",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.1/README.md",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master/src/index.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master/src/index.css",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master/src/components/places.json",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master/src/components/Place.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master/src/components/LocationList.js",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.1/src/components/LocationList.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master/public/index.html",
+		"/Users/khrystynakoshulynska/Desktop/api_map/public/index.html",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master/public/manifest.json",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master/package.json",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.0/package.json",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.0/package-lock.json",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.0/README.md",
+		"/Users/khrystynakoshulynska/Desktop/api_map/node_modules/acorn-dynamic-import/README.md",
+		"/Users/khrystynakoshulynska/Desktop/api_map/package.json",
+		"/Users/khrystynakoshulynska/Desktop/api_map.1.0/src/index.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-master/README.md",
+		"/Users/khrystynakoshulynska/Desktop/Nanodegree/reactnd-project-myreads-starter-master/public/index.html",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-master/css/styles.css",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-master/index.html",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-master/js/main.js",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-master/js/data.js",
+		"/Users/khrystynakoshulynska/Desktop/Nanodegree/reactnd-project-myreads-starter-master/build/service-worker.js",
+		"/Users/khrystynakoshulynska/Desktop/api_map/package-lock.json",
+		"/Users/khrystynakoshulynska/Desktop/neighborhood-map-react-master 4/README.md",
+		"/Users/khrystynakoshulynska/Desktop/reactnd-project-myreads-starter-master/public/index.html",
+		"/Users/khrystynakoshulynska/Desktop/Nanodegree/Portfolio/css/style.css",
+		"/Users/khrystynakoshulynska/Desktop/Nanodegree/MemoryGame/index.html",
+		"/Users/khrystynakoshulynska/Desktop/Nanodegree/MemoryGame/css/app.css",
+		"/Users/khrystynakoshulynska/Desktop/API MAP/index.html",
+		"/Users/khrystynakoshulynska/Desktop/My Project Canarian-80656fd6f65d.json",
+		"/Users/khrystynakoshulynska/Desktop/My Project Canarian-0e0031ca6014.json",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/rest_rev 1.0/README.md",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/README.md",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/rest_rev 1.1/README.md",
+		"/Users/khrystynakoshulynska/Desktop/elementor 2/manifest.json",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/rest_rev 1.1/sw.js",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/rest_rev 1.1/js/main.js",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/rest_rev 1.1/restaurant.html",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/rest_rev 1.1/index.html",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/rest_rev 1.1/css/styles.css",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/js/main.js",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/sw.js",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/css/styles.css",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/index.html",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/js/dbhelper.js",
+		"/Users/khrystynakoshulynska/Desktop/rest_rev/restaurant.html",
+		"/Users/khrystynakoshulynska/Desktop/Arcade game/css/style.css",
+		"/Users/khrystynakoshulynska/Desktop/Udacity.mws-restaurant-stage-1-master/sw.js",
+		"/Users/khrystynakoshulynska/Desktop/mws-restaurant-stage-1-master 2/package-lock.json",
+		"/Users/khrystynakoshulynska/Desktop/Udacity.mws-restaurant-stage-1-master 2/README.md",
+		"/Users/khrystynakoshulynska/Desktop/video11-code-your-first-game-source/11-step3/game.html",
+		"/Users/khrystynakoshulynska/Desktop/Arcade game/README.md",
+		"/Users/khrystynakoshulynska/Desktop/Arcade game/js/app.js",
+		"/Users/khrystynakoshulynska/Desktop/Testing with Jasmine/jasmine/spec/feedreader.js",
+		"/Users/khrystynakoshulynska/Desktop/Testing with Jasmine/README.md",
+		"/Users/khrystynakoshulynska/Desktop/Nanodegree/Unit 1/Projects test/Portfolio /Portfolio version 2/css/style.css",
+		"/Users/khrystynakoshulynska/Desktop/video02-code-your-first-game-source/02-step4/game.html",
+		"/Users/khrystynakoshulynska/Desktop/video02-code-your-first-game-source/02-step5/game.html",
+		"/Users/khrystynakoshulynska/Desktop/Arcade game/index.html",
+		"/Users/khrystynakoshulynska/Desktop/Matching Game_files/app.css",
+		"/Users/khrystynakoshulynska/Desktop/fend-project-memory-game-master/README.md",
+		"/Users/khrystynakoshulynska/Desktop/fend-project-memory-game-master 2/index.html",
+		"/Users/khrystynakoshulynska/Desktop/fend-project-memory-game-master 2/css/app.css",
+		"/Users/khrystynakoshulynska/Desktop/website nicho/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
